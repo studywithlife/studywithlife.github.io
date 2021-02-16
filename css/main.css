@@ -2020,7 +2020,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #e95c66;
+  background: #85e51f;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3122,13 +3122,13 @@ img:hover {
   padding-right: 260px;
 }
 header {
-  width: 90% !important;
+  width: 70% !important;
 }
 header.post-header {
   width: auto !important;
 }
 .container .main-inner {
-  width: 90%;
+  width: 70%;
 }
 .content-wrap {
   width: calc(100% - 260px);
