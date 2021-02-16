@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CodeWithLife</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-02-16T11:40:17.380Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>ryan</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>线性结构-稀疏数组</title>
+    <link href="http://example.com/2021/02/16/%E7%BA%BF%E6%80%A7%E7%BB%93%E6%9E%84-%E7%A8%80%E7%96%8F%E6%95%B0%E7%BB%84/"/>
+    <id>http://example.com/2021/02/16/%E7%BA%BF%E6%80%A7%E7%BB%93%E6%9E%84-%E7%A8%80%E7%96%8F%E6%95%B0%E7%BB%84/</id>
+    <published>2021-02-16T11:38:36.000Z</published>
+    <updated>2021-02-16T11:40:17.380Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;线性结构-稀疏数组&quot;&gt;&lt;a href=&quot;#线性结构-稀疏数组&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="数据结构与算法" scheme="http://example.com/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/"/>
+    
+    
+    <category term="数据结构与算法" scheme="http://example.com/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+</feed>
